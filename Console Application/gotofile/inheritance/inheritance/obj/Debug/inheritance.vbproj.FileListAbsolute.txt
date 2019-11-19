@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\bin\Debug\inheritance.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\bin\Debug\inheritance.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\bin\Debug\inheritance.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\bin\Debug\inheritance.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritance\inheritance\obj\Debug\inheritance.pdb

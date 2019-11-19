@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\bin\Debug\discount select case.exe.config
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\bin\Debug\discount select case.exe
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\bin\Debug\discount select case.pdb
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\bin\Debug\discount select case.xml
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount select case.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount_select_case.Resources.resources
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount select case.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount select case.exe
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount select case.xml
+E:\desktopbackup1613041019\vb.net\Console Application\discount select case\discount select case\obj\Debug\discount select case.pdb

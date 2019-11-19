@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\bin\Debug\panelcontrol.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\bin\Debug\panelcontrol.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\bin\Debug\panelcontrol.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\bin\Debug\panelcontrol.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\panelcontrol\panelcontrol\obj\Debug\panelcontrol.pdb

@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\bin\Debug\grader.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\bin\Debug\grader.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\bin\Debug\grader.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\bin\Debug\grader.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\grader\grader\obj\Debug\grader.vbprojAssemblyReference.cache

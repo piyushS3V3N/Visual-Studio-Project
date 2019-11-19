@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\bin\Debug\sumofalldowhile.exe.config
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\bin\Debug\sumofalldowhile.exe
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\bin\Debug\sumofalldowhile.pdb
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\bin\Debug\sumofalldowhile.xml
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.Resources.resources
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.exe
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.xml
+E:\desktopbackup1613041019\vb.net\Console Application\sumofalldowhile\sumofalldowhile\obj\Debug\sumofalldowhile.pdb

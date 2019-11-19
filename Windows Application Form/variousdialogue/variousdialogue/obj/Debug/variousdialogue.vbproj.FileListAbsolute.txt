@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\bin\Debug\variousdialogue.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\bin\Debug\variousdialogue.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\bin\Debug\variousdialogue.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\bin\Debug\variousdialogue.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\variousdialogue\variousdialogue\obj\Debug\variousdialogue.pdb

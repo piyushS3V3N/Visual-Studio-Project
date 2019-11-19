@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\bin\Debug\inheritanceover.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\bin\Debug\inheritanceover.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\bin\Debug\inheritanceover.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\bin\Debug\inheritanceover.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\inheritanceover\inheritanceover\obj\Debug\inheritanceover.pdb

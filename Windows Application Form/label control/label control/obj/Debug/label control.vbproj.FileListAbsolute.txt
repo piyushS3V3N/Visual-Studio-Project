@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\bin\Debug\label control.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\bin\Debug\label control.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\bin\Debug\label control.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\bin\Debug\label control.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label control.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label_control.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label_control.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label control.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label control.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label control.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\label control\label control\obj\Debug\label control.pdb

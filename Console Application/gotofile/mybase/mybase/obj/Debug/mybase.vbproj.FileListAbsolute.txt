@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\bin\Debug\mybase.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\bin\Debug\mybase.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\bin\Debug\mybase.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\bin\Debug\mybase.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mybase\mybase\obj\Debug\mybase.vbprojAssemblyReference.cache

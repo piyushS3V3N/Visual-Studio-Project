@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\bin\Debug\windowpropertiesetc.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\bin\Debug\windowpropertiesetc.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\bin\Debug\windowpropertiesetc.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\bin\Debug\windowpropertiesetc.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\windowpropertiesetc\windowpropertiesetc\obj\Debug\windowpropertiesetc.pdb

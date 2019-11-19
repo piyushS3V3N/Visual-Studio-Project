@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\bin\Debug\textboxcontrol.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\bin\Debug\textboxcontrol.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\bin\Debug\textboxcontrol.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\bin\Debug\textboxcontrol.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\textboxcontrol\textboxcontrol\obj\Debug\textboxcontrol.pdb

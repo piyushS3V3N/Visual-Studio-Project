@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "panelcontrol", "panelcontrol\panelcontrol.vbproj", "{C4C7027E-21CF-454F-A26F-457302C8087C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C7027E-21CF-454F-A26F-457302C8087C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C7027E-21CF-454F-A26F-457302C8087C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C7027E-21CF-454F-A26F-457302C8087C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C7027E-21CF-454F-A26F-457302C8087C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35C4152-5D03-4FA2-8269-2156C09CEE9A}
+	EndGlobalSection
+EndGlobal

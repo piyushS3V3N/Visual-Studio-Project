@@ -1,0 +1,10 @@
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\bin\Debug\1tonprimefornext.exe.config
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\bin\Debug\1tonprimefornext.exe
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\bin\Debug\1tonprimefornext.pdb
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\bin\Debug\1tonprimefornext.xml
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\1tonprimefornext.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\_1tonprimefornext.Resources.resources
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\1tonprimefornext.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\1tonprimefornext.exe
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\1tonprimefornext.xml
+C:\Users\PawAnuPriPiy\source\repos\1tonprimefornext\1tonprimefornext\obj\Debug\1tonprimefornext.pdb

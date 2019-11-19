@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\bin\Debug\Select case discount.exe.config
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\bin\Debug\Select case discount.exe
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\bin\Debug\Select case discount.pdb
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\bin\Debug\Select case discount.xml
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select case discount.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select_case_discount.Form1.resources
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select_case_discount.Resources.resources
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select case discount.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select case discount.exe
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select case discount.xml
+E:\desktopbackup1613041019\vb.net\Windows Application Form\Select case discount\Select case discount\obj\Debug\Select case discount.pdb

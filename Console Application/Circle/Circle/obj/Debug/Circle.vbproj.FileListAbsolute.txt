@@ -1,0 +1,12 @@
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\bin\Debug\Circle.xml
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.Form1.resources
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.Resources.resources
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.xml
+C:\Users\PawAnuPriPiy\source\repos\Circle\Circle\obj\Debug\Circle.pdb

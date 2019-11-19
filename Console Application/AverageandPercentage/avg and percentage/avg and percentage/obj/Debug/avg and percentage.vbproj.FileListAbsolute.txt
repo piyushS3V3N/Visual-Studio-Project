@@ -1,0 +1,10 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg_and_percentage.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg and percentage.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg and percentage.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\bin\Debug\avg and percentage.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\bin\Debug\avg and percentage.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\bin\Debug\avg and percentage.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\bin\Debug\avg and percentage.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg and percentage.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg and percentage.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\avg and percentage\avg and percentage\obj\Debug\avg and percentage.pdb

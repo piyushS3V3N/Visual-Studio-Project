@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\bin\Debug\SelectEvenOrOdd.exe.config
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\bin\Debug\SelectEvenOrOdd.exe
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\bin\Debug\SelectEvenOrOdd.pdb
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\bin\Debug\SelectEvenOrOdd.xml
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.Resources.resources
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.exe
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.xml
+E:\desktopbackup1613041019\vb.net\Console Application\SelectEvenOrOdd\SelectEvenOrOdd\obj\Debug\SelectEvenOrOdd.pdb

@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\bin\Debug\Area of sq and rect.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\bin\Debug\Area of sq and rect.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\bin\Debug\Area of sq and rect.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\bin\Debug\Area of sq and rect.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area_of_sq_and_rect.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Area of sq and rect\Area of sq and rect\obj\Debug\Area of sq and rect.pdb

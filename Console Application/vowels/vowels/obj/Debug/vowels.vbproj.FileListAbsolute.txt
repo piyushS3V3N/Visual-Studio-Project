@@ -1,0 +1,20 @@
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.Resources.resources
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\bin\Debug\vowels.exe.config
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\bin\Debug\vowels.exe
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\bin\Debug\vowels.pdb
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\bin\Debug\vowels.xml
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.exe
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.xml
+E:\desktopbackup1613041019\vb.net\Console Application\vowels\vowels\obj\Debug\vowels.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\bin\Debug\vowels.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\bin\Debug\vowels.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\bin\Debug\vowels.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\bin\Debug\vowels.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\vowels\vowels\obj\Debug\vowels.pdb

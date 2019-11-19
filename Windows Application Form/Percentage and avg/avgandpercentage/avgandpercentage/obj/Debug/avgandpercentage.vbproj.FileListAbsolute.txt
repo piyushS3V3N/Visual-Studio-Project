@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\bin\Debug\avgandpercentage.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\bin\Debug\avgandpercentage.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\bin\Debug\avgandpercentage.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\bin\Debug\avgandpercentage.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\avgandpercentage\avgandpercentage\obj\Debug\avgandpercentage.pdb

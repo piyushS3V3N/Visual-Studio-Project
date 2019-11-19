@@ -1,0 +1,10 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\bin\Debug\Simpleinterestes.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\bin\Debug\Simpleinterestes.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\bin\Debug\Simpleinterestes.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\bin\Debug\Simpleinterestes.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Simpleinterestes\Simpleinterestes\obj\Debug\Simpleinterestes.pdb

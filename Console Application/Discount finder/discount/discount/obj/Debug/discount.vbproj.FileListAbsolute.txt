@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.Resources.resources
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\bin\Debug\discount.exe.config
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\bin\Debug\discount.exe
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\bin\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\bin\Debug\discount.xml
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.exe
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.xml
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\source\repos\discount\discount\obj\Debug\discount.vbprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\bin\Debug\Loadpicture.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\bin\Debug\Loadpicture.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\bin\Debug\Loadpicture.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\bin\Debug\Loadpicture.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Loadpicture\Loadpicture\obj\Debug\Loadpicture.vbprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\bin\Debug\cube of a number func.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\bin\Debug\cube of a number func.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\bin\Debug\cube of a number func.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\bin\Debug\cube of a number func.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube of a number func.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube_of_a_number_func.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube of a number func.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube of a number func.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube of a number func.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\cube of a number func\cube of a number func\obj\Debug\cube of a number func.pdb

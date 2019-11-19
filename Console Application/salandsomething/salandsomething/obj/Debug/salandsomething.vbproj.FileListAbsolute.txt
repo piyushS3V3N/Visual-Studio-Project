@@ -1,0 +1,10 @@
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.Resources.resources
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\bin\Debug\salandsomething.exe.config
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\bin\Debug\salandsomething.exe
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\bin\Debug\salandsomething.pdb
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\bin\Debug\salandsomething.xml
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.exe
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.xml
+C:\Users\PawAnuPriPiy\source\repos\salandsomething\salandsomething\obj\Debug\salandsomething.pdb

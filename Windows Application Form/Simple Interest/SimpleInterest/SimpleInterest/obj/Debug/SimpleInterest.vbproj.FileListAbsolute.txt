@@ -1,0 +1,12 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.pdb

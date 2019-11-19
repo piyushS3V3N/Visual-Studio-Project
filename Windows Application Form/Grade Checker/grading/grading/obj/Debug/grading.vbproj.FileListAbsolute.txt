@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\bin\Debug\grading.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\bin\Debug\grading.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\bin\Debug\grading.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\bin\Debug\grading.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\grading\grading\obj\Debug\grading.pdb

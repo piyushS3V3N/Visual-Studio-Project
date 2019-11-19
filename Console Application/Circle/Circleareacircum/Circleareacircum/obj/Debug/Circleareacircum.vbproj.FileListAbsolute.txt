@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\bin\Debug\Circleareacircum.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\bin\Debug\Circleareacircum.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\bin\Debug\Circleareacircum.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\bin\Debug\Circleareacircum.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Console Application\Circleareacircum\Circleareacircum\obj\Debug\Circleareacircum.pdb

@@ -1,0 +1,12 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\bin\Debug\Student.mdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\bin\Debug\ado.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\bin\Debug\ado.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\bin\Debug\ado.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\bin\Debug\ado.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\ado\ado\obj\Debug\ado.pdb

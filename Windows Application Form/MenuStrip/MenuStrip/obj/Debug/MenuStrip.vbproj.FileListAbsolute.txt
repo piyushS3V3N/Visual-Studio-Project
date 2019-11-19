@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\bin\Debug\MenuStrip.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb

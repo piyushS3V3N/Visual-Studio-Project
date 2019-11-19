@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\bin\Debug\interfacegenerator.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\bin\Debug\interfacegenerator.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\bin\Debug\interfacegenerator.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\bin\Debug\interfacegenerator.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\interfacegenerator\interfacegenerator\obj\Debug\interfacegenerator.pdb

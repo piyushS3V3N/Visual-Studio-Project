@@ -1,0 +1,11 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\calculator\calculator\obj\Debug\calculator.pdb

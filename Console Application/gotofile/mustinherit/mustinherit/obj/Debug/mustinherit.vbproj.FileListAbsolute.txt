@@ -1,0 +1,9 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\bin\Debug\mustinherit.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\bin\Debug\mustinherit.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\bin\Debug\mustinherit.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\bin\Debug\mustinherit.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\obj\Debug\mustinherit.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\obj\Debug\mustinherit.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\obj\Debug\mustinherit.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\obj\Debug\mustinherit.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\mustinherit\mustinherit\obj\Debug\mustinherit.pdb

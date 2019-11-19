@@ -1,0 +1,24 @@
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\bin\Debug\discount.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\bin\Debug\discount.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\bin\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\bin\Debug\discount.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\discount\discount\obj\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.Form1.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.Resources.resources
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.vbproj.CoreCompileInputs.cache
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.xml
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\obj\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\bin\Debug\discount.exe.config
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\bin\Debug\discount.exe
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\bin\Debug\discount.pdb
+C:\Users\PawAnuPriPiy\Desktop\vb.net\Windows Application Form\discount\discount\discount\bin\Debug\discount.xml

@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\bin\Debug\avgusingunctions.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\bin\Debug\avgusingunctions.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\bin\Debug\avgusingunctions.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\bin\Debug\avgusingunctions.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\avgusingunctions\avgusingunctions\obj\Debug\avgusingunctions.vbprojAssemblyReference.cache

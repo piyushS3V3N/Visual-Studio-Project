@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\bin\Debug\sharedkey.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\bin\Debug\sharedkey.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\bin\Debug\sharedkey.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\bin\Debug\sharedkey.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\sharedkey\sharedkey\obj\Debug\sharedkey.pdb

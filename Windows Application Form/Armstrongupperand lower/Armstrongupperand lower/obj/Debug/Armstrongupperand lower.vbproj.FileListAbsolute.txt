@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\bin\Debug\Armstrongupperand lower.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\bin\Debug\Armstrongupperand lower.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\bin\Debug\Armstrongupperand lower.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\bin\Debug\Armstrongupperand lower.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand_lower.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand_lower.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand lower.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand lower.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand lower.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand lower.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\Armstrongupperand lower\Armstrongupperand lower\obj\Debug\Armstrongupperand lower.vbprojAssemblyReference.cache

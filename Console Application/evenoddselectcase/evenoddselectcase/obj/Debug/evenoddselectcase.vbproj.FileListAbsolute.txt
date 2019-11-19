@@ -1,0 +1,10 @@
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\bin\Debug\evenoddselectcase.exe.config
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\bin\Debug\evenoddselectcase.exe
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\bin\Debug\evenoddselectcase.pdb
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\bin\Debug\evenoddselectcase.xml
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.vbprojAssemblyReference.cache
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.Resources.resources
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.vbproj.GenerateResource.cache
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.exe
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.xml
+C:\Users\PawAnuPriPiy\source\repos\evenoddselectcase\evenoddselectcase\obj\Debug\evenoddselectcase.pdb

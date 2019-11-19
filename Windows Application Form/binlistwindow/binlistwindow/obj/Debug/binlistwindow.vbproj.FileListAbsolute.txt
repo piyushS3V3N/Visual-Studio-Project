@@ -1,0 +1,11 @@
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\bin\Debug\binlistwindow.exe.config
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\bin\Debug\binlistwindow.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\bin\Debug\binlistwindow.pdb
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\bin\Debug\binlistwindow.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.Form1.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.Resources.resources
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.exe
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.xml
+E:\desktopbackup1613041019\vb.net\newwindowsapplication\binlistwindow\binlistwindow\obj\Debug\binlistwindow.pdb

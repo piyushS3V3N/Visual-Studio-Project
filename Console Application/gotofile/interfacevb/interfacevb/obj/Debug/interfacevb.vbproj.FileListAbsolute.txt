@@ -1,0 +1,10 @@
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.vbprojAssemblyReference.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.Resources.resources
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.vbproj.GenerateResource.cache
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\bin\Debug\interfacevb.exe.config
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\bin\Debug\interfacevb.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\bin\Debug\interfacevb.pdb
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\bin\Debug\interfacevb.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.exe
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.xml
+E:\desktopbackup1613041019\vb.net\newconsoleapplication\interfacevb\interfacevb\obj\Debug\interfacevb.pdb

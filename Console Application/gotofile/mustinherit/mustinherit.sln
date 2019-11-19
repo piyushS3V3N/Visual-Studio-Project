@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mustinherit", "mustinherit\mustinherit.vbproj", "{F90DA8B0-A47B-490C-9ED1-241860C9CD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90DA8B0-A47B-490C-9ED1-241860C9CD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90DA8B0-A47B-490C-9ED1-241860C9CD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90DA8B0-A47B-490C-9ED1-241860C9CD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90DA8B0-A47B-490C-9ED1-241860C9CD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A449C836-89AE-46EE-AD05-973B3AB57850}
+	EndGlobalSection
+EndGlobal
